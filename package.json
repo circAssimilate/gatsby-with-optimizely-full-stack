@@ -8,6 +8,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "@optimizely/react-sdk": "^1.0.1",
     "axios": "^0.18.0",
     "gatsby": "^2.0.0",
     "react": "^16.5.1",
