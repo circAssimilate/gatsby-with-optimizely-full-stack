@@ -1,9 +1,8 @@
 # Gastby and Optimizely React SDK
 
+Running locally:
 ```sh
-git clone https://github.com/circAssimilate/gatsby-with-unstructured-data.git
-cd gatsby-with-unstructured-data
-nvm use 12.13.1
+nvm use
 yarn
 gatsby develop
 ```
